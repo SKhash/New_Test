@@ -6,3 +6,4 @@ if num==num_reverse:
     print("PAlandrome")
 else:
     print("Not palandrome")
+#test
